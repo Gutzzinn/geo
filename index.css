@@ -1,0 +1,23 @@
+#hdr{
+    
+    border-bottom: 3px solid transparent;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+#ftr{
+    
+    border-top: 3px solid transparent;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    
+}
+header{
+    margin-bottom: 7rem;
+    
+}
+footer{
+margin-top: 7rem;
+}
+.na{
+    border: 3px solid black;
+}
